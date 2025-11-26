@@ -1,6 +1,6 @@
 # Supply Chain Analytics – Correlation Matrix Visualization
 
-**Email:** 24F2004876@ds.study.iitm.ac.in
+**Email:** 24f2004876@ds.study.iitm.ac.in
 
 This repository contains the required files for the Supply Chain Correlation Matrix assignment:
 
